@@ -1,0 +1,12 @@
+[submodule ".context/TypeGPU"]
+	path = .context/TypeGPU
+	url = https://github.com/software-mansion/TypeGPU
+[submodule ".context/effect"]
+	path = .context/effect
+	url = https://github.com/Effect-TS/effect
+[submodule ".context/website"]
+	path = .context/website
+	url = https://github.com/Effect-TS/website
+[submodule ".context/examples"]
+	path = .context/examples
+	url = https://github.com/Effect-TS/examples
